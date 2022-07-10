@@ -1,0 +1,5 @@
+.gradle
+.idea
+gradle
+/Simple Chatty Bot/task/build/*
+/Simple Chatty Bot/task/out/*

@@ -1,0 +1,5 @@
+.gradle
+.idea
+gradle
+/Amazing Numbers/task/build/*
+/Amazing Numbers/task/out/*

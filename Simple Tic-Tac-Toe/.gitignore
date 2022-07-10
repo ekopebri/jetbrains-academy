@@ -1,0 +1,5 @@
+.gradle
+.idea
+gradle
+/Simple Tic-Tac-Toe/task/build/*
+/Simple Tic-Tac-Toe/task/out/*
