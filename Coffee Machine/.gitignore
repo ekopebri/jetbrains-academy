@@ -1,0 +1,5 @@
+.gradle
+.idea
+gradle
+/Coffee Machine/task/build/*
+/Coffee Machine/task/out/*
